@@ -1,0 +1,47 @@
+# =========================
+# Angular / Node
+# =========================
+
+node_modules/
+dist/
+.angular/
+coverage/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Environment files
+.env
+.env.local
+
+# =========================
+# ASP.NET / .NET
+# =========================
+
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio files
+.vs/
+.vscode/
+
+# Logs
+*.log
+
+# Build results
+out/
+publish/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# =========================
+# Angular build cache
+# =========================
+
+.cache/
